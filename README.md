@@ -1,3 +1,11 @@
+
+###
+<div align="center">
+ <a href="https://ibb.co/2yCc8Sq"><img src="https://i.ibb.co/pxM4WQ2/github-header-image-1.png" alt="github-header-image-1" border="0"></a>
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -26,10 +34,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://ibb.co/2yCc8Sq"  />
-</div>
-
-###
